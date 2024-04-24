@@ -1,0 +1,23 @@
+{
+  "name": "01-solid-node-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx watch src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "nodemailer": "^6.9.13",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.14"
+  }
+}
