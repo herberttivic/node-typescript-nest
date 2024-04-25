@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-test-nest-mailer/test-nest-mailer" vcs="Git" />
   </component>
 </project>
